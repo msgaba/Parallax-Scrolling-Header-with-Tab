@@ -1,16 +1,20 @@
-# scroll
+# Parallax Scrolling Header with Tab
 
-A new Flutter project.
+A sample flutter project showcasing parallax scolling header with tab in android, ios and web.
 
-## Getting Started
+## Screen recording
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[Screen_recording_20240511_133237.webm](https://github.com/msgaba/Parallax-Scrolling-Header-with-Tab/assets/71500144/0d405bb8-db46-4853-b1ec-5b00d018e538)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/msgaba/Parallax-Scrolling-Header-with-Tab/assets/71500144/56154a1b-e0b9-4bff-ac0b-d3f044bcc9ec
+
+
+
+
+https://github.com/msgaba/Parallax-Scrolling-Header-with-Tab/assets/71500144/a3a136fd-c58a-4746-843b-66d9395ffb96
+
+
+
